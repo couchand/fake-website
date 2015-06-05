@@ -1,5 +1,5 @@
 Hello, world!
 =============
 
-[something else](foobar)
-[another](qux)
+  * [something else](foobar)
+  * [another](qux)
